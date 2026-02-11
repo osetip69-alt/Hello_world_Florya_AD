@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<table>
-  <tr>
-    <td bgcolor="#F0F6FC" style="padding: 20px; border-radius: 10px;">
 
 # Лабораторная работа №1: Знакомство с Git и Python
 
@@ -35,7 +32,4 @@ print(f"Сумма чисел {number_a} и {number_b} равна {number_a + nu
 ```
 ---
 
-С другими примерами оформления файла README.md можно ознакомиться здесь.
-
-    </td>
-
+    
