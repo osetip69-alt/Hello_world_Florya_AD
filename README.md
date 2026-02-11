@@ -1,3 +1,16 @@
+<!-- СТИКЕРЫ (БЕЙДЖИ) – добавлены сверху, не меняют исходный текст -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<!-- ТАБЛИЦА ДЛЯ ЦВЕТНОГО ФОНА – весь исходный текст внутри -->
+<table>
+  <tr>
+    <td bgcolor="#F0F6FC" style="padding: 20px; border-radius: 10px;">
+
 # Лабораторная работа №1: Знакомство с Git и Python
 
 **Добро пожаловать в мой первый учебный репозиторий! Здесь я учусь работать с системой контроля версий Git, настраиваю рабочую среду и пишу базовый код на Python.**
@@ -14,7 +27,7 @@
 ## Пример кода на Python
 
 В ходе работы я написал скрипт, который выполняет простые математические действия:
-
+``` python 
 # Моя первая программа
 user_name = "Студент"
 number_a = 15
@@ -22,8 +35,11 @@ number_b = 7
 
 print(f"Привет, {user_name}!")
 print(f"Сумма чисел {number_a} и {number_b} равна {number_a + number_b}")
-
+```
 ---
 
 С другими примерами оформления файла README.md можно ознакомиться здесь.
 
+    </td>
+  </tr>
+</table>
