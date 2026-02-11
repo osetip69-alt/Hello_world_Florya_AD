@@ -1,4 +1,3 @@
-<!-- СТИКЕРЫ (БЕЙДЖИ) – добавлены сверху, не меняют исходный текст -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -6,7 +5,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<!-- ТАБЛИЦА ДЛЯ ЦВЕТНОГО ФОНА – весь исходный текст внутри -->
 <table>
   <tr>
     <td bgcolor="#F0F6FC" style="padding: 20px; border-radius: 10px;">
@@ -28,7 +26,6 @@
 
 В ходе работы я написал скрипт, который выполняет простые математические действия:
 ``` python 
-# Моя первая программа
 user_name = "Студент"
 number_a = 15
 number_b = 7
