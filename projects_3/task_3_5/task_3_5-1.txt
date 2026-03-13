@@ -1,0 +1,2 @@
+ ls -la Treponema_pallidum.fna.gz
+-rw-r--r-- 1 flora69 flora69 857567 Dec 27  2019 Treponema_pallidum.fna.gz
