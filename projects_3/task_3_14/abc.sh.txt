@@ -1,0 +1,1 @@
+chmod +x task_3-14_system_analyze.sh
